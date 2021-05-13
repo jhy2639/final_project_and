@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         String n = "남진의 둥쥐";
 
         String cc = "아 왜안돼";
+        String zz = "sadsadsa";
 
 
     }
