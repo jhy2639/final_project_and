@@ -12,13 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int a = 1;
-        String c = "김가연";
-        String s = "송대관의네박자";
-
-        String n = "남진의 둥쥐";
-
-        String cc = "아 왜안돼";
-        String zz = "sadsadsa";
+        String reset = "asldkfj";
 
 
     }
