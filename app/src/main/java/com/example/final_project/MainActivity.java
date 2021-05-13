@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         String ab = "김가연";
         String b = "test1111111ddddddddddddd";
         String c = "test1111111ddddddddddddd";
+        String d = "test1111111ddddddddddddd";
 
 
 
