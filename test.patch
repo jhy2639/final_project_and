@@ -1,0 +1,25 @@
+Index: app/src/main/java/com/example/final_project/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/final_project/MainActivity.java	(revision 45e516a6207dcf48c8a8751b37a248a8ef9e9e9e)
++++ app/src/main/java/com/example/final_project/MainActivity.java	(date 1620887157166)
+@@ -12,7 +12,16 @@
+         setContentView(R.layout.activity_main);
+ 
+         int a = 1;
++
+         String c = "김가연";
+         String abc = "왜안돼";
++
++
++        String b = "test1111111";
++
++        String c1 = "jinwoo";
++
++
++
+     }
+ }
+\ No newline at end of file
