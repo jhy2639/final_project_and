@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         String n = "남진의 둥쥐";
         String jjy = "전준엽";
-        String idea = "소스코드 -> vcs -> commit -> 바꾼 파일 선택 -> 왼쪽하단 파란커밋 버튼 누르기 -> vcs ->";
+        String idea = "소스코드 -> vcs -> commit -> 바꾼 파일 선택 -> 왼쪽하단 파란커밋 버튼 누르기 -> vcs -> git -> push";
 
 
 
