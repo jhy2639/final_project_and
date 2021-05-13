@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         int a = 1;
 
         String b = "test1111111";
+        String jinwoo = "이해완료";
 
 
 
