@@ -3,9 +3,13 @@ package com.example.final_project;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.TextView;
+
+import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 
+    TextView tv_jinwoo;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,6 +26,10 @@ public class MainActivity extends AppCompatActivity {
 
         String cc = "아 왜안돼";
         String zz = "sadsadsa";
+
+        tv_jinwoo = findViewById(R.id.tv_jinwoo);
+
+
 
 
     }
