@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         String s = "송대관의네박자";
 
         String n = "남진의 둥쥐";
+        String jjy = "전준엽";
 
     }
 }
